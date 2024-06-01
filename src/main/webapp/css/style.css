@@ -1,0 +1,20 @@
+/* Jordan Maddock c3259753 SENG2050 Assignment 1 2024*/
+
+
+.maskedWordChar {
+    font-size: 24pt;
+}
+
+#startGame_form, #nextGuessForm {
+    background-color: grey;
+    padding: 0.3cm;
+    max-width: 15cm;
+}
+
+#finalScore {
+    font-size: 150%;
+}
+
+.errorMessage {
+    color: darkred;
+}
